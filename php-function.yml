@@ -6,5 +6,5 @@ functions:
   php-function:
     lang: php7
     handler: ./php-function
-    image: php-function:latest
+    image: registry:5000/php-function:latest
 
