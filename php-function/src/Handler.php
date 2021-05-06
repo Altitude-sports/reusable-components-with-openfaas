@@ -14,6 +14,6 @@ class Handler
      */
     public function handle($data)
     {
-        return $data;
+        return "--> $data <--";
     }
 }
