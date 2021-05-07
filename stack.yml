@@ -7,4 +7,6 @@ functions:
     lang: php7
     handler: ./php-function
     image: registry:5000/php-function:latest
-
+  someone-elses-php-function:
+    lang: php7
+    image: registry:5000/php-function:latest
